@@ -14,6 +14,8 @@
 # Säkerhetsroll-exempel: --------------------
 # Simulerar en IT-säkerhetsutvecklare som bygger ett intrångsdetekteringssystem (IDS) för att skydda mot nätverksattacker.
 
+#Skapat av : Jarryd Martino, April 2025
+
 # ------------------------Import Libraries------------------------
 import os                                # for file and directory operations
 import logging                           # for logging events and errors
